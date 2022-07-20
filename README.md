@@ -1,3 +1,19 @@
+# Project:
+<b>Shop Product Page</b>
+
+# Technologies use
+- ReactJS
+- Html,css
+- REST API
+- Bootstrap + React
+
+# Projects Screenshots 
+## Page1
+![page1](./public/page1.png)
+## Page2
+![page2](./public/page2.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
